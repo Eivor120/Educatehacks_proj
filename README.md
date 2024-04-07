@@ -12,3 +12,10 @@ As a basic MVP prototype developed over a weekend, our vision for Donation Alloc
 
 ## Images
 Refer to the images in the 'images' folder to see the app in action.
+
+## Run the project
+Run the below commands to run the project.
+
+npm install
+npm install -g expo-cli
+expo start
