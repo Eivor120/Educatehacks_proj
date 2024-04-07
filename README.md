@@ -1,4 +1,4 @@
-# Educatehacks_proj
+# Educatehacks_project
 Empowering philanthropy through seamless and hassle-free donation allocation.
 
 ## What it does
