@@ -10,5 +10,5 @@ Throughout the development process, we gained insights into aid allocation compl
 ## What's next for Donation Allocation Aid
 As a basic MVP prototype developed over a weekend, our vision for Donation Allocation Aid is to evolve it into a seamless and hassle-free platform for philanthropy. We aim to refine the algorithm, enhance user experience, and scale the platform to serve a broader audience. Our goal is to empower users to effortlessly contribute to different causes in today's busy world. With continued dedication and support, Donation Allocation Aid has the potential to become a comprehensive solution that maximizes philanthropic impact effectively.
 
-##Images
+## Images
 Refer to the images in the 'images' folder to see the app in action.
